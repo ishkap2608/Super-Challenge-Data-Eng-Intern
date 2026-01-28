@@ -1,0 +1,167 @@
+[
+  {
+    "user_id": 12,
+    "event_time": "2024-07-10T11:45:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-10T11:59:30Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-10T12:00:05Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-10T12:00:10Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-10T12:00:10Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 12,
+    "event_time": "2024-07-10T12:05:00Z",
+    "event_type": "click"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-10T12:25:30Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-10T12:10:00Z",
+    "event_type": "click"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-10T12:29:59Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 12,
+    "event_time": "2024-07-10T12:35:01Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-10T12:31:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-10T12:55:30Z",
+    "event_type": "click"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-10T13:00:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-10T13:00:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 12,
+    "event_time": "2024-07-10T13:05:10Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-10T13:05:00Z",
+    "event_type": "click"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-10T13:25:30Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 12,
+    "event_time": "2024-07-10T13:35:10Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-10T13:35:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-10T13:41:00Z",
+    "event_type": "click"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-10T13:55:31Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 10,
+    "event_time": "bad_ts",
+    "event_type": "view"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-11T08:59:59Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-11T09:00:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 12,
+    "event_time": "2024-07-11T09:00:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 12,
+    "event_time": "2024-07-11T09:00:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-11T09:10:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 10,
+    "event_time": "2024-07-11T09:30:00Z",
+    "event_type": "purchase"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-11T09:35:00Z",
+    "event_type": "click"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-11T09:40:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 12,
+    "event_time": "2024-07-11T09:45:00Z",
+    "event_type": "click"
+  },
+  {
+    "user_id": 11,
+    "event_time": "2024-07-11T10:10:00Z",
+    "event_type": "view"
+  },
+  {
+    "user_id": 13,
+    "event_time": "2024-07-11T10:40:00Z",
+    "event_type": "purchase"
+  }
+]
